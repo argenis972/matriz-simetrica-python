@@ -1,0 +1,10 @@
+projeto: matriz-simetrica
+autor: Argenis López
+
+mensagens:
+  matriz_simetrica: "✅ A matriz é simétrica!"
+  matriz_nao_simetrica: "❌ A matriz não é simétrica!"
+
+config:
+  centralizar_saida: true
+  mostrar_matriz: true

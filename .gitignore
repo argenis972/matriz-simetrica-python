@@ -1,10 +1,5 @@
-# Ignorar o ambiente virtual
-venv/
-
-# Ignorar arquivos temporários
+# Archivos o pastas que Git deve ignorar
 __pycache__/
-*.pyc
-*.log
-
-# Ignorar configurações do VS Code
+venv/
 .vscode/
+.env

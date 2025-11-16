@@ -1,5 +1,4 @@
-# Archivos o pastas que Git deve ignorar
+*.pyc
 __pycache__/
-venv/
-.vscode/
-.env
+*.env
+secret.txt
